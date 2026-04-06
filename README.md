@@ -45,19 +45,19 @@ Designed to be:
 
 ## 📦 Installation
 
-``bash
+```bash
 npm install
 npm run dev
-``
+```
 
 ---
 
 🏗️ Build
 
-``bash
+```bash
 npm install
 npm run dev
-``
+```
 
 ---
 
@@ -65,12 +65,14 @@ npm run dev
 
 This project is built with a simple principle:
 
-``
+```
 Speed > Features
-``
+```
 
-Most POS systems are slow, bloated, and overcomplicated. 
-This one is designed for real-world usage in small shops. 
+Most POS systems are slow, bloated, and overcomplicated.  
+This one is designed for real-world usage in small shops.  
+
+---
 
 🧪 Status
 
